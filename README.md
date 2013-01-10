@@ -1,7 +1,7 @@
 Preparing the Core Ruby course participants for the web
 =======================================================
 
-All the programs related to the "Intermediate Ruby" ( http://satishtalim.github.com/webruby/ ) course are available here.
+All the programs related to the "programming the web with Ruby" course are available here.
 
 
 About RubyLearning.org
